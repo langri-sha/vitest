@@ -28,7 +28,7 @@ const project = new Project({
       '@langri-sha/lint-staged@0.9.8',
       '@langri-sha/prettier@0.4.9',
       '@langri-sha/projen-project@*',
-      '@langri-sha/tsconfig@1.0.1',
+      '@langri-sha/tsconfig@1.0.2',
       'vitest@5.0.2',
     ],
     peerDeps: ['vitest@^5.0.0'],
