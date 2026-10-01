@@ -1,13 +1,20 @@
 {
   "name": "@langri-sha/vitest",
   "version": "0.2.0",
+  "description": "Provides some useful helpers that are commonly used for authoring tests.",
+  "keywords": [
+    "nock",
+    "tempy",
+    "testing",
+    "vitest"
+  ],
+  "homepage": "https://github.com/langri-sha/vitest#readme",
   "bugs": {
-    "url": "https://github.com/langri-sha/projen/issues"
+    "url": "https://github.com/langri-sha/vitest/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/langri-sha/projen.git",
-    "directory": "packages/vitest"
+    "url": "git+https://github.com/langri-sha/vitest.git"
   },
   "license": "MIT",
   "author": {
@@ -19,17 +26,41 @@
   "type": "module",
   "main": "src/index.ts",
   "scripts": {
-    "prepublishOnly": "rm -rf dist; tsc --project tsconfig.build.json"
+    "change": "pnpm exec projen change",
+    "default": "pnpm exec projen default",
+    "prepare": "husky",
+    "prepublishOnly": "rm -rf dist; tsc --project tsconfig.build.json",
+    "renovate": "pnpm exec projen renovate"
   },
   "dependencies": {
     "nock": "14.0.17",
     "tempy": "3.2.0"
   },
   "devDependencies": {
-    "@langri-sha/tsconfig": "workspace:*"
+    "@langri-sha/eslint-config": "0.9.17",
+    "@langri-sha/lint-staged": "0.9.8",
+    "@langri-sha/prettier": "0.4.9",
+    "@langri-sha/projen-project": "0.31.2",
+    "@langri-sha/tsconfig": "1.0.1",
+    "beachball": "2.66.0",
+    "eslint": "10.11.0",
+    "husky": "9.1.7",
+    "lint-staged": "17.6.0",
+    "prettier": "3.9.9",
+    "projen": "0.86.5",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3",
+    "vitest": "5.0.2"
   },
   "peerDependencies": {
     "vitest": "^5.0.0"
+  },
+  "packageManager": "pnpm@12.7.0",
+  "devEngines": {
+    "runtime": {
+      "name": "node",
+      "version": ">= 24.16.0"
+    }
   },
   "publishConfig": {
     "access": "public",

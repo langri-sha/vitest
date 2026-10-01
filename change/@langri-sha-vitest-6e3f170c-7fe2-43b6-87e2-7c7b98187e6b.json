@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "Publish from langri-sha/vitest, which now owns this package and its history",
+  "packageName": "@langri-sha/vitest",
+  "email": "filip.dupanovic@gmail.com",
+  "dependentChangeType": "patch"
+}
