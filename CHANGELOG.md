@@ -1,8 +1,16 @@
 # Change Log - @langri-sha/vitest
 
-<!-- This log was last generated on Mon, 21 Sep 2026 10:53:40 GMT and should not be manually modified. -->
+<!-- This log was last generated on Thu, 01 Oct 2026 20:50:14 GMT and should not be manually modified. -->
 
 <!-- Start content -->
+
+## 0.2.1
+
+Thu, 01 Oct 2026 20:50:14 GMT
+
+### Patches
+
+- Publish from langri-sha/vitest, which now owns this package and its history (filip.dupanovic@gmail.com)
 
 ## 0.2.0
 

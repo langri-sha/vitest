@@ -2,6 +2,21 @@
   "name": "@langri-sha/vitest",
   "entries": [
     {
+      "date": "Thu, 01 Oct 2026 20:50:14 GMT",
+      "version": "0.2.1",
+      "tag": "@langri-sha/vitest_v0.2.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "filip.dupanovic@gmail.com",
+            "package": "@langri-sha/vitest",
+            "commit": "996c7035f130170f2b22cfef39d7c51f3894117d",
+            "comment": "Publish from langri-sha/vitest, which now owns this package and its history"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 21 Sep 2026 10:53:40 GMT",
       "version": "0.2.0",
       "tag": "@langri-sha/vitest_v0.2.0",
