@@ -1,8 +1,18 @@
 # Change Log - @langri-sha/vitest
 
-<!-- This log was last generated on Thu, 01 Oct 2026 20:50:14 GMT and should not be manually modified. -->
+<!-- This log was last generated on Fri, 02 Oct 2026 20:05:35 GMT and should not be manually modified. -->
 
 <!-- Start content -->
+
+## 0.2.2
+
+Fri, 02 Oct 2026 20:05:35 GMT
+
+### Patches
+
+- chore(deps): update dependency @langri-sha/tsconfig to v1.1.0
+- fix(deps): update dependency pnpm to v12.8.1
+- chore(deps): update dependency @langri-sha/tsconfig to v1.0.2
 
 ## 0.2.1
 

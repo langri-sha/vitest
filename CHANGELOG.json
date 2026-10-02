@@ -2,6 +2,33 @@
   "name": "@langri-sha/vitest",
   "entries": [
     {
+      "date": "Fri, 02 Oct 2026 20:05:35 GMT",
+      "version": "0.2.2",
+      "tag": "@langri-sha/vitest_v0.2.2",
+      "comments": {
+        "patch": [
+          {
+            "author": "email not defined",
+            "package": "@langri-sha/vitest",
+            "commit": "af85189c37b4e3a8ec918181e24dad264020bab8",
+            "comment": "chore(deps): update dependency @langri-sha/tsconfig to v1.1.0"
+          },
+          {
+            "author": "email not defined",
+            "package": "@langri-sha/vitest",
+            "commit": "af85189c37b4e3a8ec918181e24dad264020bab8",
+            "comment": "fix(deps): update dependency pnpm to v12.8.1"
+          },
+          {
+            "author": "email not defined",
+            "package": "@langri-sha/vitest",
+            "commit": "af85189c37b4e3a8ec918181e24dad264020bab8",
+            "comment": "chore(deps): update dependency @langri-sha/tsconfig to v1.0.2"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 01 Oct 2026 20:50:14 GMT",
       "version": "0.2.1",
       "tag": "@langri-sha/vitest_v0.2.1",
