@@ -24,9 +24,9 @@ const project = new Project({
 
     deps: ['nock@14.0.17', 'tempy@3.2.0'],
     devDeps: [
-      '@langri-sha/eslint-config@0.9.17',
-      '@langri-sha/lint-staged@0.9.8',
-      '@langri-sha/prettier@0.4.9',
+      '@langri-sha/eslint-config@0.9.18',
+      '@langri-sha/lint-staged@0.9.9',
+      '@langri-sha/prettier@0.4.10',
       '@langri-sha/projen-project@*',
       '@langri-sha/tsconfig@1.1.0',
       'vitest@5.0.2',
