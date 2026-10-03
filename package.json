@@ -55,7 +55,7 @@
   "peerDependencies": {
     "vitest": "^5.0.0"
   },
-  "packageManager": "pnpm@12.8.1",
+  "packageManager": "pnpm@12.8.2",
   "devEngines": {
     "runtime": {
       "name": "node",
