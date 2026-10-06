@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "Link the readme to Vitest instead of Jest",
+  "packageName": "@langri-sha/vitest",
+  "email": "filip.dupanovic@gmail.com",
+  "dependentChangeType": "patch"
+}

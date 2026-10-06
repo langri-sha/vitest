@@ -21,8 +21,8 @@ test(/*...*/)
 
 ## See
 
-- [`@jest/globals`]
+- [`vitest`]
 - [`tempy`]
 
-[`@jest/globals`]: https://jestjs.io/docs/api
+[`vitest`]: https://vitest.dev/
 [`tempy`]: https://github.com/sindresorhus/tempy
