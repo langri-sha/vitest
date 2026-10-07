@@ -1,8 +1,22 @@
 # Change Log - @langri-sha/vitest
 
-<!-- This log was last generated on Fri, 02 Oct 2026 20:05:35 GMT and should not be manually modified. -->
+<!-- This log was last generated on Wed, 07 Oct 2026 10:15:27 GMT and should not be manually modified. -->
 
 <!-- Start content -->
+
+## 0.2.3
+
+Wed, 07 Oct 2026 10:15:27 GMT
+
+### Patches
+
+- fix(deps): update dependency pnpm to v12.9.0
+- chore(deps): update dependency vitest to v5.0.3
+- fix(deps): update dependency pnpm to v12.9.1
+- fix(deps): update dependency pnpm to v12.8.2
+- chore(deps): update dependency @langri-sha/projen-project to v0.32.0
+- Link the readme to Vitest instead of Jest (filip.dupanovic@gmail.com)
+- chore(deps): update langri-sha projen toolchain
 
 ## 0.2.2
 

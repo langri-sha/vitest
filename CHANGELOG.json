@@ -2,6 +2,57 @@
   "name": "@langri-sha/vitest",
   "entries": [
     {
+      "date": "Wed, 07 Oct 2026 10:15:27 GMT",
+      "version": "0.2.3",
+      "tag": "@langri-sha/vitest_v0.2.3",
+      "comments": {
+        "patch": [
+          {
+            "author": "email not defined",
+            "package": "@langri-sha/vitest",
+            "commit": "1791d696a435e1e875f9d15d87375ca191b58fe9",
+            "comment": "fix(deps): update dependency pnpm to v12.9.0"
+          },
+          {
+            "author": "email not defined",
+            "package": "@langri-sha/vitest",
+            "commit": "1791d696a435e1e875f9d15d87375ca191b58fe9",
+            "comment": "chore(deps): update dependency vitest to v5.0.3"
+          },
+          {
+            "author": "email not defined",
+            "package": "@langri-sha/vitest",
+            "commit": "1791d696a435e1e875f9d15d87375ca191b58fe9",
+            "comment": "fix(deps): update dependency pnpm to v12.9.1"
+          },
+          {
+            "author": "email not defined",
+            "package": "@langri-sha/vitest",
+            "commit": "1791d696a435e1e875f9d15d87375ca191b58fe9",
+            "comment": "fix(deps): update dependency pnpm to v12.8.2"
+          },
+          {
+            "author": "email not defined",
+            "package": "@langri-sha/vitest",
+            "commit": "1791d696a435e1e875f9d15d87375ca191b58fe9",
+            "comment": "chore(deps): update dependency @langri-sha/projen-project to v0.32.0"
+          },
+          {
+            "author": "filip.dupanovic@gmail.com",
+            "package": "@langri-sha/vitest",
+            "commit": "1791d696a435e1e875f9d15d87375ca191b58fe9",
+            "comment": "Link the readme to Vitest instead of Jest"
+          },
+          {
+            "author": "email not defined",
+            "package": "@langri-sha/vitest",
+            "commit": "1791d696a435e1e875f9d15d87375ca191b58fe9",
+            "comment": "chore(deps): update langri-sha projen toolchain"
+          }
+        ]
+      }
+    },
+    {
       "date": "Fri, 02 Oct 2026 20:05:35 GMT",
       "version": "0.2.2",
       "tag": "@langri-sha/vitest_v0.2.2",
