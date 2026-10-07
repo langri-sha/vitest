@@ -1,0 +1,7 @@
+{
+  "type": "none",
+  "comment": "Document the nock re-export in the README",
+  "packageName": "@langri-sha/vitest",
+  "email": "filip.dupanovic@gmail.com",
+  "dependentChangeType": "none"
+}
