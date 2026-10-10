@@ -33,7 +33,7 @@
     "renovate": "pnpm exec projen renovate"
   },
   "dependencies": {
-    "nock": "14.0.17",
+    "nock": "15.0.1",
     "tempy": "3.2.0"
   },
   "devDependencies": {
