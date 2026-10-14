@@ -18,6 +18,12 @@ Then import your test helpers from here:
 import { expect, nock, temporaryDirectory, test } from '@langri-sha/vitest'
 ```
 
+## Contributing
+
+See [CONTRIBUTING.md] in `langri-sha/github`.
+
+[contributing.md]:
+  https://github.com/langri-sha/github/blob/main/CONTRIBUTING.md
 [vitest]: https://vitest.dev/
 [`nock`]: https://github.com/nock/nock
 [`tempy`]: https://github.com/sindresorhus/tempy
