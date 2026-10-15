@@ -29,7 +29,7 @@ const project = new Project({
       '@langri-sha/prettier@0.4.11',
       '@langri-sha/projen-project@*',
       '@langri-sha/tsconfig@1.1.1',
-      'vitest@5.0.3',
+      'vitest@5.0.4',
     ],
     peerDeps: ['vitest@^5.0.0'],
   },
