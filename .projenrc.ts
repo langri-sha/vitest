@@ -22,7 +22,7 @@ const project = new Project({
     repository: 'git+https://github.com/langri-sha/vitest.git',
     type: 'module',
 
-    deps: ['nock@15.0.4', 'tempy@3.2.0'],
+    deps: ['nock@15.0.5', 'tempy@3.2.0'],
     devDeps: [
       '@langri-sha/eslint-config@0.10.0',
       '@langri-sha/lint-staged@0.9.11',
