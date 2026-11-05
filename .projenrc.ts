@@ -25,7 +25,7 @@ const project = new Project({
     deps: ['nock@15.0.5', 'tempy@3.2.0'],
     devDeps: [
       '@langri-sha/projen-project@*',
-      '@langri-sha/tsconfig@1.1.1',
+      '@langri-sha/tsconfig@2.0.0',
       'vitest@5.1.0',
     ],
     peerDeps: ['vitest@^5.0.0'],
